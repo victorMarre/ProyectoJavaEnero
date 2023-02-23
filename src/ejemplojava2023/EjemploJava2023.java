@@ -15,7 +15,7 @@ public class EjemploJava2023 {
      */
     public static void main(String[] args) {
     
-        System.out.println("Epi: ¡Hola Blas!");
+        System.out.println((“>Epi: ¡Hola Blas!\n>Blas: ¡Hola Epi!\n”);
     }
     
 }
